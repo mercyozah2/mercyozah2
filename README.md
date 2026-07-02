@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Mercy 👋
 
-<!--
-**mercyozah2/mercyozah2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Virtual Assistant
 
-Here are some ideas to get you started:
+ICT Instructor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excel Specialist
+
+Google Workspace
+
+Administrative Support
+
+Currently Learning
+
+- CRM
+- Notion
+- Trello
+- Asana
+- Data Analytics
+
+Projects
+
+- Virtual Assistant Portfolio(....)
+- Excel Dashboard
+
+Contact(09115827355)
+
+LinkedIn
+
+Email(mercyozah2@gmail.com)
