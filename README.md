@@ -20,35 +20,7 @@ Currently Learning
 
 Projects
 
-- Virtual Assistant Portfolio(Hi, I'm Mercy 👋
-
-Virtual Assistant
-
-ICT Instructor
-
-Excel Specialist
-
-Google Workspace
-
-Administrative Support
-
-Currently Learning
-
-- CRM
-- Notion
-- Trello
-- Asana
-- Data Analytics
-
-Projects
-
-- Virtual Assistant Portfolio
-- Excel Dashboard
-- Data Analysis Projects
-
-Contact
-
-LinkedIn
+- Virtual Assistant Portfolio(https://github.com/mercyozah2/virtual-assistant-portfolio)
 
 - Excel Dashboard
 
